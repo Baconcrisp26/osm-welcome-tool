@@ -27,7 +27,7 @@ regions:
     south-africa:
       name: South Africa
       flag: 🇿🇦
-      osmcha.id: 
+      osmcha.id: 5d310fee-75ab-4191-b58e-7689760ad2c2
     tanzania:
       name: Tanzania
       flag: 🇹🇿
